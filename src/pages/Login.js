@@ -94,8 +94,8 @@ function Login(props) {
                 </div>
                 <div className='form-info'>
                     <p className="text-danger">{message}</p>
-                    <h1>Project Developer: Abhishek Sharma</h1>
-                    <h2>Contact: abhiatriat2004@gmail.com</h2>
+                    <h1>Project Developer: Abhay veer singh</h1>
+                    <h2>Contact: avs.ahlawat@gmail.com</h2>
                 </div>
             </form>
         </div>
